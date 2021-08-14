@@ -29,6 +29,10 @@ There were 3 things to achieve in this project:
   ![3D scene screenshot](/ss3.png)
   
 ### Hand Occluder
+
     Now if I run the project with just the Hand segmentation, it will look like the object is rotating infront of the hand. This is not what I want. I want it to rotate around the hand. Lens Studio still cannot achieve this with SnapML alone , so they, a friendly application for beginners, provide a Hand Occluder that hides the object when it's behind the hand
+    
+## That's all
+    
   
 
